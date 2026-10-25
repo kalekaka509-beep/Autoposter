@@ -1,0 +1,6 @@
+{
+  "name": "ViralBlogger - US Traffic AutoPoster",
+  "description": "Automated real-time distribution system that pushes Blogger links to Pinterest, Facebook, Twitter (X), and Quora during peak US visitor traffic hours to maximize reach and high-traffic engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
